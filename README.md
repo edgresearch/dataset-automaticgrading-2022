@@ -24,3 +24,20 @@ The datasets are made of eight columns:
 8. *correct* indicates is the answer is correct = 1, of wrong = 0.
 
 --------
+
+## How to cite the usage of *STITA* dataset in pubblications?
+
+Please, to cite this package, cite the paper:
+```
+-----------
+```
+
+Here you can find the citation in BibTeX format:
+```
+-----------
+```
+
+Here the citation in RIS format:
+```
+-----------
+```
